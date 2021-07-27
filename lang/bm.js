@@ -1,0 +1,4 @@
+const bmLocale ={
+  route: {
+  }
+}
